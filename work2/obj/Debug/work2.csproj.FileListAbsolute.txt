@@ -1,0 +1,6 @@
+c:\users\mhr\documents\visual studio 2013\Projects\day2\HW\work2\work2\bin\Debug\work2.exe.config
+c:\users\mhr\documents\visual studio 2013\Projects\day2\HW\work2\work2\bin\Debug\work2.exe
+c:\users\mhr\documents\visual studio 2013\Projects\day2\HW\work2\work2\bin\Debug\work2.pdb
+c:\users\mhr\documents\visual studio 2013\Projects\day2\HW\work2\work2\obj\Debug\work2.exe
+c:\users\mhr\documents\visual studio 2013\Projects\day2\HW\work2\work2\obj\Debug\work2.pdb
+C:\Users\Mhr\Documents\Visual Studio 2013\Projects\day2\HW\work2\work2\obj\Debug\work2.csprojResolveAssemblyReference.cache
